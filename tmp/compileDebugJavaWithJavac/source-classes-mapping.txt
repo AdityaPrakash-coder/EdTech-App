@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/iitpalsathee/acharyaui/iitpal_acharya_ui/BuildConfig.java
+ com.iitpalsathee.acharyaui.iitpal_acharya_ui.BuildConfig
